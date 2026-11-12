@@ -1,0 +1,4 @@
+1794445817s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a63436f-3eaf-40a2-b9d5-ce62732e5e7b/prd/bof_time/c/0?versionId=5tzWiFXkZajQqN.DmwMXhubMJUhrTnAD
+1794445817s 1 https://api.dandiarchive.org/api/zarr/3a63436f-3eaf-40a2-b9d5-ce62732e5e7b/files?prefix=prd%2Fbof_time%2Fc%2F0&download=true
+1794445817s 1 https://dandiarchive.s3.amazonaws.com/zarr/3a63436f-3eaf-40a2-b9d5-ce62732e5e7b/prd/eof_time/c/0?versionId=uZg7ayvtuKoePBnB.u4f7x.VaheJOiGV
+1794445817s 1 https://api.dandiarchive.org/api/zarr/3a63436f-3eaf-40a2-b9d5-ce62732e5e7b/files?prefix=prd%2Feof_time%2Fc%2F0&download=true
